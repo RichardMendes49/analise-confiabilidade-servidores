@@ -381,8 +381,7 @@ Previsões
 ### 1. Clone o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/RichardMendes49/analise-confiabilidade-servidores.git
 ```
 
 ### 2. Instale as dependências
